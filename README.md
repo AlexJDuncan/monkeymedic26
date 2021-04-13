@@ -4,7 +4,7 @@
 
 - 💬 If you like my work or just want to chat send me a message;
 - 📫 How to reach me:
-    -[monkeymedic26@gmail.com]
+    -[monkeymedic26@gmail.com];
     -[@MaralNhi](https://twitter.com/MaralNhi);
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
