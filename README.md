@@ -22,7 +22,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact&theme=dracula" alt="Top Languages" /></p>
 
 <h3>This Weeks Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=monkeymedic26&layout=compact" alt="This Weeks Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=monkeymedic26" alt="This Weeks Stats" /></p>
 
 <h3>Github Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26&theme=dracula" alt="Github Stats" /></p>
