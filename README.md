@@ -5,8 +5,11 @@
 - 💬 If you like my work or just want to chat send me a message
 - 📫 How to reach me:
     - email:[monkeymedic26@gmail.com]
-    - twitter[@MaralNhi](https://twitter.com/MaralNhi)
+    - twitter:[@MaralNhi](https://twitter.com/MaralNhi)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
+
+<h3>Top Languages</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Github Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26" alt="Github Stats" /></p>
