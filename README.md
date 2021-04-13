@@ -11,7 +11,7 @@
 <h2>Tech & Languages</h2>
 
 <h3> Current Stack </h3>
-<p>Javascript | React | Webpack | Node | Express | AWS EC2</p>
+<p>Javascript | React | Webpack | Node | Express | MongoDB/Mongoose | MySQL | Postgres | AWS EC2</p>
 
 <h3> Looking to Learn </h3>
 <p>Typescript | React-Native | Python | PHP</p>
