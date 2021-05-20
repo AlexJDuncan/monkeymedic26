@@ -19,11 +19,11 @@
 <h2>Stats</h2>
 
 <h3>Top Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact&theme=dracula" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact&theme=dracu" alt="Top Languages" /></p>
 
 <h3>This Weeks Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=monkeymedic26" alt="This Weeks Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=monkeymedic" alt="This Weeks Stats" /></p>
 
 <h3>Github Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26&theme=dracula" alt="Github Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26&theme=dracu" alt="Github Stats" /></p>
 
