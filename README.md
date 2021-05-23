@@ -22,5 +22,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact&theme=dracula" alt="Top Languages" /></p>
 
 <h3>Github Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeymedic26)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkeymedic26)](https://github.com/anuraghazra/github-readme-stats)]
 
