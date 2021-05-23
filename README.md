@@ -16,5 +16,11 @@
 <h3> Looking to Learn </h3>
 <p>Typescript | React-Native | Python | PHP</p>
 
+<h2>Stats</h2>
 
+<h3>Top Languages</h3>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeymedic26&layout=compact&theme=dracula" alt="Top Languages" /></p>
+
+<h3>Github Stats</h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26&theme=dracula" alt="Github Stats" /></p>
 
