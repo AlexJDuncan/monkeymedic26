@@ -1,6 +1,6 @@
 <h2>Hiya Folks!!</h2>
 
-<p>My Name is Alex Duncan. I am a full stack engineer that takes pride in everything I do.  That includes getting stuck in my code.  Getting stuck gives me the opportuniity learn even more and expand my knowledge of the particular problem area. My passion, as of now, is connected to my Graphic Design background.  I love bringing my projects to life on the client facing side. </p>
+<p>My Name is Alex Duncan. I am a full stack engineer that takes pride in everything I do.  That includes getting stuck in my code.  Getting stuck gives me the opportuniity learn even more and expand my knowledge of the particular problem area. My passion is frontend the of a project as I can get to utilize my Graphic Design background.  I love bringing my projects to life on the client facing side.  My dream is to work in AR/VR some day.  I just think it's amazing the things we can already do in thos fields and I want to be part of the innovation that is still to come.</p>
 
 - 💬 If you like my work or just want to chat send me a message
 - 📫 How to reach me:
@@ -14,7 +14,7 @@
 <p>Javascript | React | Webpack | Node | Express | MongoDB/Mongoose | MySQL | Postgres | AWS EC2</p>
 
 <h3> Looking to Learn </h3>
-<p>Typescript | React-Native | Python | PHP</p>
+<p>Typescript | C# | Unity | Go</p>
 
 <h2>Stats</h2>
 
