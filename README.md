@@ -25,4 +25,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26" /></p>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 51 mins    █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
