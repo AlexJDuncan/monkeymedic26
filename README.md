@@ -26,7 +26,5 @@
 
 <h3>Weekly Breakdown<h3>
 <!--START_SECTION:waka-->
-```text
 JavaScript   1 hr 51 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
 <!--END_SECTION:waka-->
