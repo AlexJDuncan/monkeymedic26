@@ -24,11 +24,6 @@
 <h3>Github Stats</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=monkeymedic26" /></p>
 
-<h3>Weekly Breakdown<h3>
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   2 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.16 % 
-JSON         23 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.03 % 
-JSX          7 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.71 % 
-```
 <!--END_SECTION:waka-->
