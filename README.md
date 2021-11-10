@@ -27,6 +27,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX    1 hr 17 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.82 % 
+JSON   3 mins          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.89 % 
 ```
 <!--END_SECTION:waka-->
