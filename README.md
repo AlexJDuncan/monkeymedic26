@@ -4,7 +4,7 @@
 
 - 💬 If you like my work or just want to chat send me a message
 - 📫 How to reach me:
-    - email: [monkeymedic26@gmail.com]
+    - email: [alexduncan1@outlook.com]
     - twitter:[@MaralNhi](https://twitter.com/MaralNhi)
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
@@ -14,7 +14,7 @@
 <p>Javascript | React | Webpack | Node | Express | MongoDB/Mongoose | MySQL | Postgres | AWS EC2</p>
 
 <h3> Looking to Learn </h3>
-<p>Typescript | C# | Unity | Go</p>
+<p>Typescript | C# | Unity | Go | React Native | More Amazon AWS Services</p>
 
 <h2>Stats</h2>
 
